@@ -12,7 +12,9 @@ body{
     height:120px;
     line-height:120px;
     background:#417aa8;
-    color:fff;
+    color:#fff;
+    padding-left:30px;
+    box-sizing:border-box;
 }
 
 .jarak{
