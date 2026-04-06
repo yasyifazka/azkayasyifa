@@ -29,11 +29,11 @@ body{
     padding:0 auto;
 }
 
-.menu ul {
+.menu ul{
     list-style:none;
 }
 
-.menu ul li a {.  
+.menu ul li a{.  
     float:left;
     width:70px;
     display:block;
@@ -42,7 +42,7 @@ body{
     text-decoration:none;
 }
 
-.menu ul li a:hover {
+.menu ul li a:hover{
     background-color:#4b88bb;
     display:block;
 }
