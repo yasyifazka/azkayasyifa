@@ -10,10 +10,10 @@ body{
     width:90%;
     margin:auto;
     height:120px;
-    line-height:120px;
     background:#417aa8;
     color:#fff;
-    padding-left:0 30px;
+    padding-left:20px;
+    padding-top:35px;
     box-sizing:border-box;
 }
 
